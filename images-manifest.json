@@ -1,0 +1,30 @@
+{
+  "generated_at": "2025-07-26T19:47:14.742Z",
+  "total_images": 3,
+  "images": [
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/BILA-LOGO-1024x609.png",
+      "file_path": "public/images/logo-vseprostavby.png",
+      "file_name": "logo-vseprostavby.png",
+      "description": "The primary logo for VSE PRO STAVBY.CZ, featuring a white design, likely intended for use against darker backgrounds or as a standalone identity marker.",
+      "suggested_usage": "Use as the main site logo in the header or footer. For redesign, consider optimizing dimensions for web and potentially converting to SVG for scalability and smaller file size.",
+      "size_bytes": 116158
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/TANVALD2-scaled-1-1024x576.jpg",
+      "file_path": "public/images/gallery-tanvald-building.jpg",
+      "file_name": "gallery-tanvald-building.jpg",
+      "description": "An image depicting a building or construction project located in Tanvald, likely showcasing completed work or an ongoing site.",
+      "suggested_usage": "Use in a project gallery, portfolio section, or as a background image for a specific service related to construction in that region. Consider adding descriptive alt text for accessibility and SEO.",
+      "size_bytes": 167094
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/RDPO.jpg",
+      "file_path": "public/images/content-residential-house.jpg",
+      "file_name": "content-residential-house.jpg",
+      "description": "An image representing a residential house, possibly depicting a new build, reconstruction, or a general example of services related to residential properties (RDPO likely stands for Rodinný Dům PO, meaning Family House AFTER).",
+      "suggested_usage": "Use within content sections discussing residential construction, new builds, or renovations. It's crucial to ensure this image is optimized for web, and good alt text like 'Rodinný dům po rekonstrukci' or a more specific description should be added for accessibility and search engines.",
+      "size_bytes": 558411
+    }
+  ]
+}
